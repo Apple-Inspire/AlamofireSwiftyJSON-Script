@@ -4,6 +4,9 @@
 AlamofireSwiftyJSON-Script
 
 
+The AS.sh script automagically configures Alamofire and SwiftyJSON
+
+
 ## Contributions Welcome
 
 Please feel free to send us pull requests, or if you are not comfortable pull requests, send changes and
