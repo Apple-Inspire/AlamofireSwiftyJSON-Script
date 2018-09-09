@@ -1,6 +1,7 @@
+![Alamofire: Elegant Networking in Swift](https://raw.githubusercontent.com/Alamofire/Alamofire/master/alamofire.png)
+
 # AlamofireSwiftyJSON-Script
 AlamofireSwiftyJSON-Script
-
 
 
 ## Contributions Welcome
