@@ -18,7 +18,7 @@ target '$fname' do
   use_frameworks!
     pod 'Alamofire'
     pod 'SwiftyJSON'
-  # Pods for Clima
+  # Pods for $fname
  
 
 end
