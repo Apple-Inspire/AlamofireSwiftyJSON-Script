@@ -1,7 +1,7 @@
 echo Installing AlamoFire and SwiftyJSON
 read -p "enter name of file> " fpath
 cd $fpath
-#ls
+
 
 sudo gem install cocoapods
 
